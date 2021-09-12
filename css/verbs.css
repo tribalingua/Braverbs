@@ -40,6 +40,7 @@ header {
 }
 
 #logo {
+	max-width: 4%;
 	margin: 10px 0 0 20px;
 }
 	
@@ -82,7 +83,6 @@ header {
 }
 
 #content {
-	background: url("../images/bravighost.png") no-repeat;
 	background-position: center;
 	background-size: 300px;
 	width: 600px;
@@ -522,7 +522,7 @@ header {
 
 #information li {
 	padding-left: 30px;
-	background: url("../images/bravifav.png") no-repeat;
+	background: url("../images/favicon.png") no-repeat;
 	background-size:20px;
 }
 
